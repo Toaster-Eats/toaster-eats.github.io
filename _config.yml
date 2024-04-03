@@ -1,0 +1,12 @@
+title: Toaster-Eats
+description: Toaster oven cooking for the UH Community
+google_analytics:
+show_downloads: false
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+github:
+  is_project_page: true
+  repository_url: https://github.com/bowfolios/bowfolios
+gems:
+  - jekyll-mentions
