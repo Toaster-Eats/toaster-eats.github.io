@@ -24,7 +24,7 @@ This section provides a short description of each main page of Toaster Eats and 
 ### Landing Page
 The landing page gives users quick access to the rest of the site's pages with a side Nav Bar as well as presents an explanation of what the webapp is about along with the Logo.
 
-![Landing Page](images/Landing_Page.png)
+![Landing Page](images/landing_page.png)
 
 ### Login Page
 The login page presents a login interface as well as a way to create a new user profile.
