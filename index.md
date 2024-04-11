@@ -39,7 +39,7 @@ The User Page displays the User's profile picture as well as relevant user infor
 ### Vendor Page
 The Vendor Page displays the Vendor's profile picture as well as relevant Vendor information (Tentative, content may be changed).
 
-![Vendor Page](images/Vendor_Page.png)
+![Vendor Page](images/VendorPage1.jpg)
 
 ### Admin Page
 The Admin Page displays the Admin's profile picture as well as relevant Admin information and access to Admin tools (Tentative, content may be changed).
