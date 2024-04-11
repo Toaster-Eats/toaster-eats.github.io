@@ -47,7 +47,7 @@ The Recipe Page displays a photo of the food, instructions, ingredients, ingredi
 ![Recipe Page](images/Admin_Page.png)
 
 ## Live Deployment
-- To be deployed to Digital Ocean
+- Live Deployment: [Toaster Eats](http://64.23.255.151/)
 
 ## Milestone 1
 > Click [here](https://github.com/orgs/Toaster-Eats/projects/2) to go to the Milestone 1 Project page!
