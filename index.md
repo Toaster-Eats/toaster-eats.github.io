@@ -39,7 +39,7 @@ The User Page displays the User's profile picture as well as relevant user infor
 ### Vendor Page
 The Vendor Page displays the Vendor's profile picture as well as relevant Vendor information (Tentative, content may be changed).
 
-![Vendor Page](images/VendorPage1.jpg)
+![Vendor Page](images/VendorPage3.jpg)
 
 ### Recipe Page
 The Recipe Page displays a photo of the food, instructions, ingredients, ingredient cost, ingredient location, and dietary restrictions if applicable (Tentative, content may be changed).
