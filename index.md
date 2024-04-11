@@ -53,7 +53,7 @@ The Recipe Page displays a photo of the food, instructions, ingredients, ingredi
 > Click [here](https://github.com/orgs/Toaster-Eats/projects/2) to go to the Milestone 1 Project page!
 
 ## Milestone 2
-> Coming [here](https://github.com/orgs/Toaster-Eats/projects/3/views/1) to go to the Milestone 2 Project page!
+> Click [here](https://github.com/orgs/Toaster-Eats/projects/3/views/1) to go to the Milestone 2 Project page!
 
 ## Team
 
