@@ -4,7 +4,7 @@
 
 - [Overview](#overview)
 - [Page Guide](#page-guide)
-- [Live Deployment](#live-deployment)
+- [Live Deployment](#deployment)
 - [Milestone 1](#milestone-1)
 - [Milestone 2](#milestone-2)
 - [Team](#team)
@@ -46,7 +46,7 @@ The Recipe Page displays a photo of the food, instructions, ingredients, ingredi
 
 ![Recipe Page](images/Admin_Page.png)
 
-## Live Deployment
+## Deployment
 - Live Deployment: [Toaster Eats](http://64.23.255.151/)
 
 ## Milestone 1
@@ -56,5 +56,7 @@ The Recipe Page displays a photo of the food, instructions, ingredients, ingredi
 > Click [here](https://github.com/orgs/Toaster-Eats/projects/3/views/1) to go to the Milestone 2 Project page!
 
 ## Team
-
 > Team Contract: [View](https://docs.google.com/document/d/1n0IWih1ujnwyixrOLsx8WL_5SpSu6oZ7mWP9MzyGwqM/edit?usp=sharing)
+
+## Organization
+> Github Organization: [View](https://github.com/Toaster-Eats)
