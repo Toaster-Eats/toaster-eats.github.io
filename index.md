@@ -41,10 +41,10 @@ The Vendor Page displays the Vendor's profile picture as well as relevant Vendor
 
 ![Vendor Page](images/VendorPage1.jpg)
 
-### Admin Page
-The Admin Page displays the Admin's profile picture as well as relevant Admin information and access to Admin tools (Tentative, content may be changed).
+### Recipe Page
+The Recipe Page displays a photo of the food, instructions, ingredients, ingredient cost, ingredient location, and dietary restrictions if applicable (Tentative, content may be changed).
 
-![Admin Page](images/Admin_Page.png)
+![Recipe Page](images/Admin_Page.png)
 
 ## Live Deployment
 - To be deployed to Digital Ocean
