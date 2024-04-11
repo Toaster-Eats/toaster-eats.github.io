@@ -37,7 +37,7 @@ The User Page displays the User's profile picture as well as relevant user infor
 ![User Page](images/User_Page.png)
 
 ### Vendor Page
-The Vendor Page displays the Vendor's profile picture as well as relevant Vendor information (Tentative, content may be changed).
+The Vendor Page has an additional navbar item to edit their store profile. It also has instructions geared towards the vendor, on how they can utilize toaster eats to market to students. 
 
 ![Vendor Page](images/VendorPage3.jpg)
 
