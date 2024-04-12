@@ -49,7 +49,7 @@ The Vendor Page has an additional navbar item to edit their store profile. It al
 ### Recipe Page
 The Recipe Page displays a photo of the food, instructions, ingredients, ingredient cost, ingredient location, and dietary restrictions if applicable (Tentative, content may be changed).
 
-![Recipe Page](images/Admin_Page.png)
+![Recipe Page](images/RecipesPage.png)
 
 ## Deployment
 - Live Deployment: [Toaster Eats](http://64.23.255.151/)
