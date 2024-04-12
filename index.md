@@ -34,7 +34,7 @@ The login page presents a login interface as well as a way to create a new user 
 ### User Page
 The User Page displays the User's profile picture as well as relevant user information (Tentative, content may be changed).
 
-![User Page](images/User_Page.png)
+![User Page](images/ProfilePage.png)
 
 ### Vendor Page
 The Vendor Page has an additional navbar item to edit their store profile. It also has instructions geared towards the vendor, on how they can utilize toaster eats to market to students. 
