@@ -52,7 +52,7 @@ The Recipe Page displays a photo of the food, instructions, ingredients, ingredi
 ![Recipe Page](images/RecipesPage.png)
 
 ## Deployment
-- Live Deployment: [Toaster Eats](http://64.23.255.151/)
+- Live Deployment: [Toaster Eats](https://toastereats.today/)
 
 ## Milestone 1
 > Click [here](https://github.com/orgs/Toaster-Eats/projects/2) to go to the Milestone 1 Project page!
