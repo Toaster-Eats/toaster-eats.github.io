@@ -27,12 +27,12 @@ The landing page welcomes users to a a home page that encapsulates a mission-dri
 ![Landing Page](images/landing_page.png)
 
 ### Login Page
-The login page presents a login interface for users to login to their profiles as well as a quick way to go to the sign up page to create a new account.
+The login page offers users an interface to access their accounts, alongside a button facilitating navigation to the sign-up page for creating new accounts.
 
 ![Login Page](images/Login_Page.png)
 
 ### Sign Up Page
-The sign up page allows new users to create a new account on Toaster Eats as well as a way to go back to the login page quickly.
+The sign-up page enables new users to register on Toaster Eats, providing a convenient option to swiftly return to the login page if needed.
 
 ![Sign Up Page](images/SignUp_Page.png)
 
