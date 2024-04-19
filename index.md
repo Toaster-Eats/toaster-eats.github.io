@@ -61,6 +61,13 @@ The Recipe Page displays a photo of the food, instructions, ingredients, ingredi
 > Click [here](https://github.com/orgs/Toaster-Eats/projects/3/views/1) to go to the Milestone 2 Project page!
 
 ## Team
+#### Team Members:
+1. [Kenneth de Guzman](https://k-deguz.github.io/)
+2. [Alexander Moshir](https://techfolio.moshir.dev/)
+3. [Kenneth Seekins](https://kseekins.github.io/)
+4. [Baishen Wang](https://baishenwang.github.io/)
+5. [Christopher Yamada](https://citycoding.github.io/)
+   
 > Team Contract: [View](https://docs.google.com/document/d/1n0IWih1ujnwyixrOLsx8WL_5SpSu6oZ7mWP9MzyGwqM/edit?usp=sharing)
 
 ## Organization
