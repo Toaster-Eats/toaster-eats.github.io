@@ -22,7 +22,7 @@ Toaster Eats is an example web application that looks to improve the nutritional
 This section provides a short description of each main page of Toaster Eats and its capabilities.
 
 ### Landing Page
-The landing page gives users quick access to the rest of the site's pages with a side Nav Bar as well as presents an explanation of what the webapp is about along with the Logo.
+The landing page welcomes users to a a home page that encapsulates a mission-driven vision, addressing pertinent issues with junk food and cooking. From the captivating banner to the problem-solving narrative, key features, and sign-up button, users are invited to be part of the transformative journey.
 
 ![Landing Page](images/landing_page.png)
 
