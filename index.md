@@ -60,6 +60,9 @@ The Recipe Page displays a photo of the food, instructions, ingredients, ingredi
 ## Milestone 2
 > Click [here](https://github.com/orgs/Toaster-Eats/projects/3/views/1) to go to the Milestone 2 Project page!
 
+## Milestone 3
+> Click [here](https://github.com/orgs/Toaster-Eats/projects/4/views/1) to go to the Milestone 3 Project page!
+
 ## Team
 #### Team Members:
 1. [Kenneth de Guzman](https://k-deguz.github.io/)
