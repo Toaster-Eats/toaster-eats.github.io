@@ -26,17 +26,42 @@ This section provides a short description of each main page of Toaster Eats and 
 ### Landing Page
 The landing page welcomes users to a a home page that encapsulates a mission-driven vision, addressing pertinent issues with junk food and cooking. From the captivating banner to the problem-solving narrative, key features, and sign-up button, users are invited to be part of the transformative journey.
 
-![Landing Page](images/landing_page.png)
+![Landing Page](images/updated/landing.PNG)
 
 ### Login Page
 The login page offers users an interface to access their accounts, alongside a button facilitating navigation to the sign-up page for creating new accounts.
 
-![Login Page](images/Login_Page.png)
+![Login Page](images/updated/login.PNG)
 
 ### Sign Up Page
 The sign-up page enables new users to register on Toaster Eats, providing a convenient option to swiftly return to the login page if needed.
 
-![Sign Up Page](images/SignUp_Page.png)
+![Sign Up Page](images/updated/signup.PNG)
+
+### Recipes Page
+The Recipes page displays a photo of the food, instructions, ingredients, ingredient cost, ingredient location, and dietary restrictions if applicable (Tentative, content may be changed).
+
+![Recipes Page](images/updated/recipes.PNG)
+
+### Add Recipe Page
+The Add Recipe page provides a form for a user to add their own unique recipe into the database. Just like the recipe page, they may add an image of the food, cooking instructions, ingredients, ingredient cost, ingredient location and dietary restrictions (if applicable). 
+
+![Add Recipe Page](images/updated/add_recipe.PNG)
+
+### Edit Recipe Page
+The Edit Recipe page provides a form for a user to edit an existing recipe. With this, they may change a recipe's image, its cooking instructions, ingredients, ingredient cost, ingredient location and dietary restrictions (if applicable). 
+
+![Edit Recipe Page](images/updated/edit_recipe.PNG)
+
+### Ingredients Page
+The Ingredients page displays an image of the ingredient, its name, location, and price. An imminent feature would allow vendors to market their specific ingredient and make it easier for users to find what they need for a particular recipe. 
+
+![Ingredients Page](images/updated/ingredients.PNG)
+
+### Add Ingredient Page
+The Add Ingredient page provides a form for users to add a new ingredient if it is not currently available within the database. 
+
+![Add Ingredient Page](images/updated/add_ingredient.PNG)
 
 ### User Page
 The User Page displays the User's profile picture as well as relevant user information (Tentative, content may be changed).
@@ -48,10 +73,6 @@ The Vendor Page has an additional navbar item to edit their store profile. It al
 
 ![Vendor Page](images/VendorPage3.jpg)
 
-### Recipe Page
-The Recipe Page displays a photo of the food, instructions, ingredients, ingredient cost, ingredient location, and dietary restrictions if applicable (Tentative, content may be changed).
-
-![Recipe Page](images/RecipesPage.png)
 
 ## Deployment
 - Live Deployment: [Toaster Eats](https://toastereats.today/)
