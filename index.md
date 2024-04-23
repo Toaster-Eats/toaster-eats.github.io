@@ -72,7 +72,7 @@ $ meteor npm run start
 
 ## Continuous Integration
 ![ci-badge](https://github.com/bowfolios/bowfolios/workflows/ci-bowfolios/badge.svg)
-![ci-badge](https://github.com/Toaster-Eats/toaster-eats/actions/workflows/ci-toaster-eats/badge.svg)
+![ci-badge](https://github.com/Toaster-Eats/toaster-eats/actions/workflows/ci.yml/badge.svg)
 
 ## Milestone 1
 > Click [here](https://github.com/orgs/Toaster-Eats/projects/2) to go to the Milestone 1 Project page!
