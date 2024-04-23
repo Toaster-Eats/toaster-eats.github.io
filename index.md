@@ -57,7 +57,9 @@ The Recipe Page displays a photo of the food, instructions, ingredients, ingredi
 
 ## Developer Guide
 1. Install [Meteor](https://docs.meteor.com/install.html)
+
 2. Visit the [Toaster-Eats github repository](https://github.com/Toaster-Eats/toaster-eats), and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
 3. cd into the bowfolios/app directory and install libraries with:
 ```
 $ meteor npm install
