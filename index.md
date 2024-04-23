@@ -39,7 +39,7 @@ The sign-up page enables new users to register on Toaster Eats, providing a conv
 ![Sign Up Page](images/updated/signup.PNG)
 
 ### Recipes Page
-The Recipes page displays a photo of the food, instructions, ingredients, ingredient cost, ingredient location, and dietary restrictions if applicable (Tentative, content may be changed).
+The Recipes page displays a photo of the food, instructions, ingredients, ingredient cost, ingredient location, and dietary restrictions (if applicable).
 
 ![Recipes Page](images/updated/recipes.PNG)
 
