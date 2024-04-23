@@ -70,6 +70,10 @@ $ meteor npm run start
 ```
 5. If successful, the application will appear at [http://localhost:3000](http://localhost:3000)
 
+## Continuous Integration
+![ci-badge](https://github.com/bowfolios/bowfolios/workflows/ci-bowfolios/badge.svg)
+![ci-badge](https://github.com/Toaster-Eats/toaster-eats/actions/workflows/ci-toaster-eats/badge.svg)
+
 ## Milestone 1
 > Click [here](https://github.com/orgs/Toaster-Eats/projects/2) to go to the Milestone 1 Project page!
 
