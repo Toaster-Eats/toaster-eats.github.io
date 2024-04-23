@@ -5,6 +5,7 @@
 - [Overview](#overview)
 - [Page Guide](#page-guide)
 - [Live Deployment](#deployment)
+- [Developer Guide](#developer-guide)
 - [Milestone 1](#milestone-1)
 - [Milestone 2](#milestone-2)
 - [Team](#team)
@@ -53,6 +54,19 @@ The Recipe Page displays a photo of the food, instructions, ingredients, ingredi
 
 ## Deployment
 - Live Deployment: [Toaster Eats](https://toastereats.today/)
+
+## Developer Guide
+1. Install [Meteor](https://docs.meteor.com/install.html)
+2. Visit the [Toaster-Eats github repository](https://github.com/Toaster-Eats/toaster-eats), and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+3. cd into the bowfolios/app directory and install libraries with:
+```
+$ meteor npm install
+```
+4. Run the system with:
+```
+$ meteor npm run start
+```
+5. If successful, the application will appear at [http://localhost:3000](http://localhost:3000)
 
 ## Milestone 1
 > Click [here](https://github.com/orgs/Toaster-Eats/projects/2) to go to the Milestone 1 Project page!
