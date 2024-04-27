@@ -77,7 +77,7 @@ The Vendor Page has an additional navbar item to edit their store profile. It al
 
 
 ## Deployment
-- Live Deployment: [Toaster Eats](https://toastereats.today/)
+Live Deployment: [Toaster Eats](https://toastereats.today/)
 
 ## Community Feedback
 We're keen on hearing about your Toaster Eats experience! If you have a moment, kindly complete the [Toaster Eats Feedback Form](https://forms.gle/qZXzayayHETqoKrU6), which comprises just five brief questions. Your input will aid us in enhancing the system.
