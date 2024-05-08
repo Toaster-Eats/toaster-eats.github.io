@@ -21,39 +21,54 @@ Toaster Eats is an example web application that looks to improve the nutritional
 - [React](https://reactjs.org/) for component-based UI implementation and routing.
 - [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
 
-## Page Guide
+## User Guide
 
 This section provides a short description of each main page of Toaster Eats and its capabilities.
 
-### Landing Page
+### Home 
 The landing page welcomes users to a a home page that encapsulates a mission-driven vision, addressing pertinent issues with junk food and cooking. From the captivating banner to the problem-solving narrative, key features, and sign-up button, users are invited to be part of the transformative journey.
 
 ![Landing Page](images/updated/landing.PNG)
 
-### Login Page
-The login page offers users an interface to access their accounts, alongside a button facilitating navigation to the sign-up page for creating new accounts.
+### Signing In
+The sign-in page offers users an interface to access login to existing accounts, alongside a button facilitating navigation to the sign-up page for creating new accounts.
 
-![Login Page](images/updated/login.PNG)
+![Sign In Page](images/updated/signin.PNG)
 
-### Sign Up Page
+### Registering a New Account
 The sign-up page enables new users to register on Toaster Eats, providing a convenient option to swiftly return to the login page if needed.
 
 ![Sign Up Page](images/updated/signup.PNG)
 
-### Recipes Page
-The Recipes page displays a photo of the food, instructions, ingredients, ingredient cost, ingredient location, and dietary restrictions (if applicable).
+### About Us
+The About Us page provides a general outlook at the functionalities that Toaster Eats provides through recipe discovery, ingredient availability and navigating convenient meal solutions with constraints surrounding busy college student life.
+
+![About Us Page](images/updated/aboutus.PNG)
+
+### Weekly Picks
+The This Week's Picks page presents three uniquely chosen recipes from the database, allowing for better recipe discoverability to finding meals that suit a user's current mood and readily available ingredients they may have for cooking.
+
+![Weekly Picks Page](images/updated/top-picks.PNG)
+
+### Viewing All Recipes
+The Recipes page displays the each recipe with a photo, its name, dietary restrictions with a rating system that counts the number of reviews left on a recipe. Additionally, each recipe has a description, along with estimations for cost per serving, number of servings, and the total time it takes for preparing/cooking the meal.
 
 ![Recipes Page](images/updated/recipes.PNG)
+
+### Viewing a Recipe
+The View Recipe page allows for users to get an in-depth look at the full information for a recipe. On top of the previous components seen within the Recipes page, viewing a recipe allows users to see ingredient names, its cost, and location. It has a section for instructions from preparing and cooking a meal. Towards the bottom of the page, users may edit an exisiting recipe's information or delete them from the database altogether. 
+
+![View Recipe Page](images/updated/view-recipe.PNG)
 
 ### Add Recipe Page
 The Add Recipe page provides a form for a user to add their own unique recipe into the database. Just like the recipe page, they may add an image of the food, cooking instructions, ingredients, ingredient cost, ingredient location and dietary restrictions (if applicable). 
 
-![Add Recipe Page](images/updated/add_recipe.PNG)
+![Add Recipe Page](images/updated/add-recipe.PNG)
 
 ### Edit Recipe Page
-The Edit Recipe page provides a form for a user to edit an existing recipe. With this, they may change a recipe's image, its cooking instructions, ingredients, ingredient cost, ingredient location and dietary restrictions (if applicable). 
+The Edit Recipe page provides a form for a user to edit an existing recipe. With this, users may change a recipe's image, its cooking instructions, ingredients, ingredient cost, ingredient location and dietary restrictions (if applicable). 
 
-![Edit Recipe Page](images/updated/edit_recipe.PNG)
+![Edit Recipe Page](images/updated/edit-recipe.PNG)
 
 ### Ingredients Page
 The Ingredients page displays an image of the ingredient, its name, location, and price. An imminent feature would allow vendors to market their specific ingredient and make it easier for users to find what they need for a particular recipe. 
@@ -63,7 +78,7 @@ The Ingredients page displays an image of the ingredient, its name, location, an
 ### Add Ingredient Page
 The Add Ingredient page provides a form for users to add a new ingredient if it is not currently available within the database. 
 
-![Add Ingredient Page](images/updated/add_ingredient.PNG)
+![Add Ingredient Page](images/updated/add-ingredient.PNG)
 
 ### User Page
 The User Page displays the User's profile picture as well as relevant user information (Tentative, content may be changed).
